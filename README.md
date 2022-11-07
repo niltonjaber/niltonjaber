@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nilton Jaber
 - 👀 I’m interested in pragramming language
-- 💞️ I’m software support
 
 <!---
 niltonjaber/niltonjaber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
